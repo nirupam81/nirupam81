@@ -11,7 +11,7 @@
 
 
 - 🌏 Developer & Tech Enthusiast from **India**  
-- 🎓 Currently pursuing **B.Tech CSE (IoT, CS & Blockchain Technology)** at **University of Engineering and Management, Kolkata**  
+- 🎓**B.Tech CSE (IoT, CS & Blockchain Technology)** at **University of Engineering and Management, Kolkata**  
 - 🔭 Passionate about **IoT, AI/ML, Blockchain, and Full-Stack Development**  
 - 🚀 Worked on projects like **traffic optimization, disaster rescue management syatem using agentic ai**   
 - 📚 Constantly learning and building innovative real-world solutions  
